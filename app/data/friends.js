@@ -16,12 +16,12 @@ var friends = [
 	},
 	{
 		name: "Mr Peanutbutter",
-		photo: "https://vignette3.wikia.nocookie.net/itsalwayssunny/images/5/5f/Mac_-_Season_8.jpg",
+		photo: "https://vignette.wikia.nocookie.net/bojackhorseman/images/3/33/Mr._Penautbutter.png",
 		scores: [3, 1, 3, 5, 2, 3, 2, 2, 5, 5]
 	},
 	{
 		name: "Todd",
-		photo: "https://vignette3.wikia.nocookie.net/itsalwayssunny/images/f/fe/Season_7_-_Frank.jpg",
+		photo: "https://vignette.wikia.nocookie.net/bojackhorseman/images/5/53/Todd_Chavez.png",
 		scores: [3, 1, 4, 4, 2, 4, 2, 5, 1, 3]
 	}
 ];
